@@ -2,7 +2,10 @@
   "resources": [
     {"id":{"name":"sprTile","path":"sprites/sprTile/sprTile.yy",},"order":0,},
     {"id":{"name":"draw_style_surface","path":"scripts/draw_style_surface/draw_style_surface.yy",},"order":0,},
+    {"id":{"name":"draw_style_vertex","path":"scripts/draw_style_vertex/draw_style_vertex.yy",},"order":1,},
+    {"id":{"name":"draw_style_manual","path":"scripts/draw_style_manual/draw_style_manual.yy",},"order":3,},
     {"id":{"name":"objDrawStuff","path":"objects/objDrawStuff/objDrawStuff.yy",},"order":0,},
+    {"id":{"name":"vertex_sprite","path":"scripts/vertex_sprite/vertex_sprite.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [

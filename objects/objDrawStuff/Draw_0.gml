@@ -1,6 +1,3 @@
-//Draw styles seperated into surfaces for easier profiling
-switch(style) {
-	case DrawStyle.surface:
-		draw_style_surface();
-	break;
-}
+draw_style_manual();
+draw_style_surface();
+draw_style_vertex();

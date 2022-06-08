@@ -1,5 +1,4 @@
-// Script assets have changed for v2.3.0 see
-// https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
+//Better way to draw, need to account for window minimizing
 function draw_style_surface(){
 	if(surface_exists(tile_surface)) {
 		surface_set_target(tile_surface);
